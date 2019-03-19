@@ -1,7 +1,5 @@
 # Left
 
-Hello this is Peter and I'm stealing this.
-
 Left is a clean, whitespace-happy layout for [Jekyll](https://github.com/mojombo/jekyll).
 
 This is designed to be an easy layout to modify for your own blog. It was
