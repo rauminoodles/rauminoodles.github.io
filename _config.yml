@@ -1,0 +1,10 @@
+permalink: /posts/:title
+markdown: kramdown
+
+gems:
+  - jekyll-sitemap
+
+name: Peter Raum
+url: https://rauminoodles.github.io
+description: Rauminoodles
+twitter: rauminoodles
