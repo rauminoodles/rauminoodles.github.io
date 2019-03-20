@@ -1,0 +1,17 @@
+---
+layout: post
+title: Test Post
+category: posts
+draft: false
+---
+
+Hello world. This is the infamous test post.
+
+I created this website using [GitHub pages][pages] and [Jekyll][jekyll]. 
+I'm not a webdev so I'm borrowing [Zach Holman's][zh] Jekyll template [Left][left]
+because I enjoy a simple minimal theme. 
+
+[zh]: http://zachholman.com
+[pages]: https://pages.github.com
+[jekyll]:https://jekyllrb.com
+[left]: https://github.com/holman/left#readme

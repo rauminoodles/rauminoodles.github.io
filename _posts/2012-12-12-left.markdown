@@ -2,9 +2,12 @@
 layout: post
 title: Left
 category: posts
+draft: true
 ---
 
 I am just stealing Zach's template but will leave this for anyone interested. -PTR
+
+---
 
 Left is a clean, whitespace-happy layout for [Jekyll][jekyll].
 

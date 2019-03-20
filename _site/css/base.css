@@ -27,17 +27,17 @@ a {
     margin: 10px 0 20px 0; }
     .sidebar .name #fname {
       padding-left: 0px;
-      font-size: 25px;
+      font-size: 30px;
       font-weight: bold;
       letter-spacing: 1px;
       color: black; }
     .sidebar .name #lname {
-      font-size: 25px;
+      font-size: 30px;
       font-weight: bold;
       letter-spacing: 1px;
       color: black; }
     .sidebar .name #mname {
-      font-size: 25px;
+      font-size: 30px;
       font-weight: bold;
       letter-spacing: 1px;
       color: black; }
@@ -56,7 +56,7 @@ a {
       padding: 3px 0;
       color: black;
       font-weight: bold;
-      font-size: 12px;
+      font-size: 16px;
       display: block; }
       .sidebar .sections a:hover {
         color: #227ce8; }
@@ -68,8 +68,8 @@ a {
       margin-bottom: 7px; }
 
 .content {
-  max-width: 650px;
-  margin-left: 150px;
+  max-width: 800px;
+  margin-left: 200px;
   margin-right: 20px;
   margin-bottom: 50px; }
   .content h1, .content h2, .content h3, .content h4 {
@@ -80,7 +80,7 @@ a {
       color: #111;
       text-decoration: none; }
   .content h1 {
-    font-size: 36px;
+    font-size: 30px;
     margin: 18px 0 5px 0; }
   .content h2 {
     font-size: 30px;

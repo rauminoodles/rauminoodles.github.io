@@ -36,19 +36,19 @@ a {
     margin: 10px 0 20px 0;
     #fname {
       padding-left: 0px;
-      font-size: 25px;
+      font-size: 30px;
       font-weight: bold;
       letter-spacing: 1px;
       color: black;
     }
     #lname {
-      font-size: 25px;
+      font-size: 30px;
       font-weight: bold;
       letter-spacing: 1px;
       color: black;
     }
     #mname {
-      font-size: 25px;
+      font-size: 30px;
       font-weight: bold;
       letter-spacing: 1px;
       color: black;
@@ -73,7 +73,7 @@ a {
       padding: 3px 0;
       color: black;
       font-weight: bold;
-      font-size: 12px;
+      font-size: 16px;
       display: block;
       &:hover {
         color: #227ce8;
@@ -91,8 +91,8 @@ a {
 }
 
 .content {
-  max-width: 650px;
-  margin-left: 150px;
+  max-width: 800px;
+  margin-left: 200px;
   margin-right: 20px;
   margin-bottom: 50px;
   h1, h2, h3, h4 {
@@ -105,7 +105,7 @@ a {
     }
   }
   h1 {
-    font-size: 36px;
+    font-size: 30px;
     margin: 18px 0 5px 0;
   }
   h2 {
