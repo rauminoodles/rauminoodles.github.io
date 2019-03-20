@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Peter Raum</title>
- <link href="https://rauminoodles.github.io/atom.xml" rel="self"/>
- <link href="https://rauminoodles.github.io/"/>
- <updated>2019-03-20T00:14:20-04:00</updated>
- <id>https://rauminoodles.github.io</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2019-03-20T00:42:39-04:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Peter Raum</name>
  </author>
@@ -16,9 +16,9 @@
    
    <entry>
      <title>Left</title>
-     <link href="https://rauminoodles.github.io/posts/left"/>
+     <link href="http://localhost:4000/posts/left"/>
      <updated>2012-12-12T00:00:00-05:00</updated>
-     <id>https://rauminoodles.github.io/posts/left</id>
+     <id>http://localhost:4000/posts/left</id>
      <content type="html">&lt;p&gt;I am just stealing Zach’s template but will leave this for anyone interested. -PTR&lt;/p&gt;
 
 &lt;p&gt;Left is a clean, whitespace-happy layout for &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;

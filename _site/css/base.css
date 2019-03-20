@@ -36,6 +36,11 @@ a {
       font-weight: bold;
       letter-spacing: 1px;
       color: black; }
+    .sidebar .name #mname {
+      font-size: 25px;
+      font-weight: bold;
+      letter-spacing: 1px;
+      color: black; }
   .sidebar .meta {
     margin-left: 4px; }
     .sidebar .meta a {
