@@ -13,5 +13,5 @@ because I enjoy a simple minimal theme.
 
 [zh]: http://zachholman.com
 [pages]: https://pages.github.com
-[jekyll]:https://jekyllrb.com
+[jekyll]: https://jekyllrb.com
 [left]: https://github.com/holman/left#readme

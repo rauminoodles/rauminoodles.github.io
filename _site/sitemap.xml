@@ -19,10 +19,10 @@
 <loc>http://localhost:4000/CV</loc>
 </url>
 <url>
-<loc>http://localhost:4000/Contact</loc>
+<loc>http://localhost:4000/about</loc>
 </url>
 <url>
-<loc>http://localhost:4000/about</loc>
+<loc>http://localhost:4000/contact</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
