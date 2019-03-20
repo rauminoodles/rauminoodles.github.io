@@ -4,7 +4,7 @@
  <title>Peter Raum</title>
  <link href="https://rauminoodles.github.io/atom.xml" rel="self"/>
  <link href="https://rauminoodles.github.io/"/>
- <updated>2019-03-19T17:14:38-04:00</updated>
+ <updated>2019-03-20T00:14:20-04:00</updated>
  <id>https://rauminoodles.github.io</id>
  <author>
    <name>Peter Raum</name>
@@ -19,7 +19,9 @@
      <link href="https://rauminoodles.github.io/posts/left"/>
      <updated>2012-12-12T00:00:00-05:00</updated>
      <id>https://rauminoodles.github.io/posts/left</id>
-     <content type="html">&lt;p&gt;Left is a clean, whitespace-happy layout for &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
+     <content type="html">&lt;p&gt;I am just stealing Zach’s template but will leave this for anyone interested. -PTR&lt;/p&gt;
+
+&lt;p&gt;Left is a clean, whitespace-happy layout for &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;This is designed to be an easy layout to modify for your own blog. It was
 extracted from &lt;a href=&quot;http://zachholman.com&quot;&gt;zachholman.com&lt;/a&gt;, which means it was battle-hardened from
