@@ -13,6 +13,14 @@ You can see it live right here: <http://zachholman.com/left/>
 
 ## Installation
 
+---
+Note from Peter:
+
+Before doing the above you will want to make sure you've [installed Ruby and Jekyll](https://jekyllrb.com/docs/).
+
+---
+
+
 - [Fork this repository](https://github.com/holman/left/fork)
 - Clone it: `git clone https://github.com/YOUR-USER/left`
 - Install ruby things: `bundle install` (if this doesn't work, look into [installing Bundler](http://bundler.io))
