@@ -3,8 +3,6 @@
   width: inherit;
   margin: 0;
   padding: 25px; }
-  .sidebar img {
-    display: none; }
   .sidebar .name {
     display: inline; }
     .sidebar .name #fname, .sidebar .name #lname {
