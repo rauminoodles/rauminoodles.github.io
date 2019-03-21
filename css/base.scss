@@ -36,19 +36,19 @@ a {
     margin: 10px 0 20px 0;
     #fname {
       padding-left: 0px;
-      font-size: 30px;
+      font-size: 200%;
       font-weight: bold;
       letter-spacing: 1px;
       color: black;
     }
     #lname {
-      font-size: 30px;
+      font-size: 200%;
       font-weight: bold;
       letter-spacing: 1px;
       color: black;
     }
     #mname {
-      font-size: 30px;
+      font-size: 200%;
       font-weight: bold;
       letter-spacing: 1px;
       color: black;
@@ -73,7 +73,7 @@ a {
       padding: 3px 0;
       color: black;
       font-weight: bold;
-      font-size: 15px;
+      font-size: 100%;
       display: block;
       &:hover {
         color: #227ce8;
@@ -95,6 +95,7 @@ a {
   margin-left: 200px;
   margin-right: 20px;
   margin-bottom: 50px;
+  font-size: 100%;
   h1, h2, h3, h4 {
     color: #333;
     font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
@@ -108,11 +109,11 @@ a {
     }
   }
   h1 {
-    font-size: 40px;
+    font-size: 300%;
     margin: 18px 0 5px 0;
   }
   h2 {
-    font-size: 30px;
+    font-size: 200%;
     margin-bottom: 15px;
     a {
       color: blue;
@@ -124,17 +125,17 @@ a {
   }
   h3 {
     color: #777;
-    font-size: 20px;
+    font-size: 150%;
     padding-bottom: 5px;
     margin-bottom: 10px;
   }
   p {
-    font-size: 15px;
+    font-size: 100%;
     margin-top: 0;
     margin-bottom: 1.2em;
     line-height: 1.7em;
     code {
-      font-size: 12px;
+      font-size: 100%;
       background-color: #eeeeee;
       border: 1px solid #777777;
       border-radius: 3px;
@@ -159,7 +160,7 @@ a {
   }
   blockquote {
     font-style: italic;
-    font-size: 14px;
+    font-size: 100%;
     padding: .25em 1em;
     margin: 1em 1em 0 1em;
     color: #444;
@@ -178,13 +179,13 @@ a {
     margin-bottom: 17px;
     font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
     padding-left: 0px;
-    font-size: 17px;
+    font-size: 100%;
     color: #777;
   }
   .aside {
     background-color: #eeeeee;
     padding: 14px;
-    font-size: 14px;
+    font-size: 100%;
     margin: 5px 0 15px 0;
     font-family: Helvetica, sans-serif;
     line-height: 1.6em;
@@ -198,7 +199,7 @@ a {
       padding: 0;
     }
     li {
-      font-size: 15px;
+      font-size: 100%;
       list-style: none;
       padding: 5px 3px;
       margin: 0;
@@ -221,7 +222,7 @@ a {
     font-family: Helvetica, sans-serif;
     p {
       line-height: 1.4;
-      font-size: 15px;
+      font-size: 100%;
       margin-top: 0px;
     }
     img {
@@ -246,7 +247,7 @@ a {
       padding: 5px 15px;
       border: 1px solid #000;
       font-family: Helvetica, sans-serif;
-      font-size: 12px;
+      font-size: 100%;
       font-weight: bold;
     }
     .white {

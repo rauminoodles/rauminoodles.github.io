@@ -27,17 +27,17 @@ a {
     margin: 10px 0 20px 0; }
     .sidebar .name #fname {
       padding-left: 0px;
-      font-size: 30px;
+      font-size: 200%;
       font-weight: bold;
       letter-spacing: 1px;
       color: black; }
     .sidebar .name #lname {
-      font-size: 30px;
+      font-size: 200%;
       font-weight: bold;
       letter-spacing: 1px;
       color: black; }
     .sidebar .name #mname {
-      font-size: 30px;
+      font-size: 200%;
       font-weight: bold;
       letter-spacing: 1px;
       color: black; }
@@ -56,7 +56,7 @@ a {
       padding: 3px 0;
       color: black;
       font-weight: bold;
-      font-size: 15px;
+      font-size: 100%;
       display: block; }
       .sidebar .sections a:hover {
         color: #227ce8; }
@@ -71,7 +71,8 @@ a {
   max-width: 800px;
   margin-left: 200px;
   margin-right: 20px;
-  margin-bottom: 50px; }
+  margin-bottom: 50px;
+  font-size: 100%; }
   .content h1, .content h2, .content h3, .content h4 {
     color: #333;
     font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
@@ -82,10 +83,10 @@ a {
       .content h1 a:hover, .content h2 a:hover, .content h3 a:hover, .content h4 a:hover {
         text-decoration: underline; }
   .content h1 {
-    font-size: 40px;
+    font-size: 300%;
     margin: 18px 0 5px 0; }
   .content h2 {
-    font-size: 30px;
+    font-size: 200%;
     margin-bottom: 15px; }
     .content h2 a {
       color: blue;
@@ -94,16 +95,16 @@ a {
         text-decoration: underline; }
   .content h3 {
     color: #777;
-    font-size: 20px;
+    font-size: 150%;
     padding-bottom: 5px;
     margin-bottom: 10px; }
   .content p {
-    font-size: 15px;
+    font-size: 100%;
     margin-top: 0;
     margin-bottom: 1.2em;
     line-height: 1.7em; }
     .content p code {
-      font-size: 12px;
+      font-size: 100%;
       background-color: #eeeeee;
       border: 1px solid #777777;
       border-radius: 3px;
@@ -123,7 +124,7 @@ a {
     line-height: 1.4em; }
   .content blockquote {
     font-style: italic;
-    font-size: 14px;
+    font-size: 100%;
     padding: .25em 1em;
     margin: 1em 1em 0 1em;
     color: #444; }
@@ -139,12 +140,12 @@ a {
     margin-bottom: 17px;
     font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
     padding-left: 0px;
-    font-size: 17px;
+    font-size: 100%;
     color: #777; }
   .content .aside {
     background-color: #eeeeee;
     padding: 14px;
-    font-size: 14px;
+    font-size: 100%;
     margin: 5px 0 15px 0;
     font-family: Helvetica, sans-serif;
     line-height: 1.6em; }
@@ -156,7 +157,7 @@ a {
       margin: 0;
       padding: 0; }
     .content .listing li {
-      font-size: 15px;
+      font-size: 100%;
       list-style: none;
       padding: 5px 3px;
       margin: 0;
@@ -174,7 +175,7 @@ a {
     font-family: Helvetica, sans-serif; }
     .content .meta p {
       line-height: 1.4;
-      font-size: 15px;
+      font-size: 100%;
       margin-top: 0px; }
     .content .meta img {
       position: relative;
@@ -193,7 +194,7 @@ a {
     padding: 5px 15px;
     border: 1px solid #000;
     font-family: Helvetica, sans-serif;
-    font-size: 12px;
+    font-size: 100%;
     font-weight: bold; }
   .content .talk-design .color .white {
     color: #fff; }
