@@ -56,7 +56,7 @@ a {
       padding: 3px 0;
       color: black;
       font-weight: bold;
-      font-size: 16px;
+      font-size: 15px;
       display: block; }
       .sidebar .sections a:hover {
         color: #227ce8; }
@@ -82,7 +82,7 @@ a {
       .content h1 a:hover, .content h2 a:hover, .content h3 a:hover, .content h4 a:hover {
         text-decoration: underline; }
   .content h1 {
-    font-size: 30px;
+    font-size: 40px;
     margin: 18px 0 5px 0; }
   .content h2 {
     font-size: 30px;
@@ -94,11 +94,11 @@ a {
         text-decoration: underline; }
   .content h3 {
     color: #777;
-    font-size: 25px;
+    font-size: 20px;
     padding-bottom: 5px;
     margin-bottom: 10px; }
   .content p {
-    font-size: 16px;
+    font-size: 15px;
     margin-top: 0;
     margin-bottom: 1.2em;
     line-height: 1.7em; }
@@ -156,7 +156,7 @@ a {
       margin: 0;
       padding: 0; }
     .content .listing li {
-      font-size: 13px;
+      font-size: 15px;
       list-style: none;
       padding: 5px 3px;
       margin: 0;
@@ -174,7 +174,7 @@ a {
     font-family: Helvetica, sans-serif; }
     .content .meta p {
       line-height: 1.4;
-      font-size: 14px;
+      font-size: 15px;
       margin-top: 0px; }
     .content .meta img {
       position: relative;
