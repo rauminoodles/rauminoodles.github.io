@@ -1,6 +1,6 @@
 ---
 layout: layout
-title: "About"
+title: "Code"
 ---
 
 <!-- You can edit this whole page, remove it, or use it as basis for any non-post pages you have. -->
@@ -9,49 +9,48 @@ title: "About"
 
     <p>Here is some of the code that I have developed for research. Not uploaded to the internet yet but stay tuned!</p>
   
-  <h2>Lanczos</h2>
+  <h2>Lanczos [<a>coming soon</a>]</h2>
   
     <p>
-    C++ code to diagonalize Hermitian matrices using the (Banded) <a href="https://en.wikipedia.org/wiki/Lanczos_algorithm">Lanczos algorithm</a> 
-    without re-orthogonalization.
+    C++ code to diagonalize Hermitian matrices using the <a href="https://www.springer.com/us/book/9781468491807">Lanczos algorithm
+    without re-orthogonalization</a>.
+
     
-    </br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Features:
     <ul>
-      <li>
-      Lightweight template header-only library built on top of <a http://eigen.tuxfamily.org/index.php?title=Main_PageEigen>Eigen</a>.
-      </li>
-      <li>
-      User-defined matrix-vector multiplication.
-      </li>
+      Features:
+      <li>Lightweight template header-only library built on top of <a href = "http://eigen.tuxfamily.org/index.php?title=Main_PageEigen">Eigen</a>.</li>
+      <li>User-defined matrix-vector multiplication.</li>
+      <li>Supports banded Lanczos.</li>
     </ul>
     </p>
   
-  <h2>Noodle</h2>
-    <p> (Noo)bie (D)iagonalization: (L)anczos and (E)xact. A simple and easy to implement header-only framework for constructing quantum
-    many-body Hamiltonians. Diagonalizes the Hamiltonian matrix either exactly with Eigen or approximately with Lanczos.
+  <h2>Noodle [<a>coming soon</a>]</h2>
+  (Noo)bie (D)iagonalization: (L)anczos and (E)xact </br></br>
+    <p>
+    A simple and easy to implement C++ header-only framework for constructing quantum
+    many-body Hamiltonians. Diagonalizes the Hamiltonian matrix either exactly with <a href = "http://eigen.tuxfamily.org/index.php?title=Main_PageEigen">Eigen</a> or approximately with Lanczos.
     
-    </br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Features:
     <ul>
-      <li>
-      Lightweight template header-only library built on top of <a http://eigen.tuxfamily.org/index.php?title=Main_PageEigen>Eigen</a>.
-      </li>
-      <li>
-      Can treat both fermions and bosons.
-      </li>
-      <li>
-      Compute: excitation spectrums and static & dynamic correlation functions (e.g. specific heat, Green's functions, dynamic structure factor, etc.).
-      </li>
+      Features:
+      <li>Lightweight template header-only library built on top of <a href ="http://eigen.tuxfamily.org/index.php?title=Main_PageEigen">Eigen</a>.</li>
+      <li>Can treat both fermions and bosons.</li>
+      <li>Compute: excitation spectrums and static & dynamic correlation functions (e.g. specific heat, Green's functions, dynamic structure factor, etc.).</li>
     </ul>
     
-    </br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp So far has treated:
+    Because Noodle is a general framework it can treat a wide range of quantum-many-body problems.
     <ul>
-      <li>
-      Excitation spectrums and thermodynamic static correlation functions of spinless fermions and bosons on a sphere with a magnetic monopole at the center
-      to study fractional quantum Hall physics.
+      So far Noodle has been used for:
+      <li>Fractional quantum Hall effect
+      <ul>
+        <li>Model: Spinless fermions and bosons on a sphere with a magnetic monopole at the center and long range Coulomb interactions.</li>
+        <li>Calculation: Excitation spectrums and thermodynamic observables e.g. specific heat, entropy, free-energy.</li>
+      </ul></li>
+      <li>Fermi-Hubbard models
+      <ul>
+        <li>Models: 1D, 2D, square lattice, kagome lattice, two-orbital, and checkerboard lattice with complex hoppings.</li>
+        <li>Calculation: Green's function and spin susceptibility.</li>
       </li>
-      <li>
-      Green's function and spin susceptibilities for: 1D & 2D Fermi-Hubbard model, 2D two-band Fermi-Hubbard model inter-orbital interactions, and 2D pi-flux Fermi-Hubbard model.
-      </li>
+      </ul>
     </ul>
       
     </p>

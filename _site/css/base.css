@@ -79,12 +79,19 @@ a {
     .content h1 a, .content h2 a, .content h3 a, .content h4 a {
       color: #111;
       text-decoration: none; }
+      .content h1 a:hover, .content h2 a:hover, .content h3 a:hover, .content h4 a:hover {
+        text-decoration: underline; }
   .content h1 {
     font-size: 30px;
     margin: 18px 0 5px 0; }
   .content h2 {
     font-size: 30px;
     margin-bottom: 15px; }
+    .content h2 a {
+      color: blue;
+      text-decoration: none; }
+      .content h2 a:hover {
+        text-decoration: underline; }
   .content h3 {
     color: #777;
     font-size: 25px;
