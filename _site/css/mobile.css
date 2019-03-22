@@ -8,7 +8,7 @@
     .sidebar .name #fname, .sidebar .name #lname {
       font-size: 200%; }
   .sidebar .meta {
-    display: none; }
+    display: inline; }
   .sidebar ul {
     padding: 25px; }
   .sidebar li {

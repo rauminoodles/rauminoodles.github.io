@@ -11,7 +11,7 @@ a {
   position: fixed;
   left: 15px;
   top: 15px;
-  width: 120px;
+  width: 150px;
   font-family: Helvetica, sans-serif; }
   .sidebar a {
     text-decoration: none; }
@@ -42,6 +42,8 @@ a {
       letter-spacing: 1px;
       color: black; }
   .sidebar .meta {
+    max-width: 150px;
+    font-size: 150%;
     margin-left: 4px; }
     .sidebar .meta a {
       margin-left: 0px;
@@ -51,6 +53,7 @@ a {
     .sidebar .meta .icon {
       margin-right: 6px; }
   .sidebar .sections {
+    text-transform: uppercase;
     margin: 15px 0 0 0; }
     .sidebar .sections a {
       padding: 3px 0;
@@ -170,7 +173,7 @@ a {
       .content .listing a:hover {
         text-decoration: underline; }
   .content .meta {
-    margin: 50px 0;
+    margin: 30px 0;
     padding: 10px 0;
     font-family: Helvetica, sans-serif; }
     .content .meta p {

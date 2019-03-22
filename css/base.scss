@@ -56,6 +56,7 @@ a {
   }
   .meta {
   max-width: 150px;
+    font-size: 150%;
     a {
       margin-left: 0px;
       color: black;
@@ -69,6 +70,7 @@ a {
     }
   }
   .sections {
+    text-transform: uppercase;
     margin: 15px 0 0 0;
     a {
       padding: 3px 0;
