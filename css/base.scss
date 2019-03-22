@@ -17,7 +17,7 @@ a {
   position: fixed;
   left: 15px;
   top: 15px;
-  width: 150px;
+  width: 250px;
   font-family: Helvetica, sans-serif;
   a {
     text-decoration: none;
@@ -32,30 +32,29 @@ a {
     border-radius: 5px;
   }
   .name {
-    text-transform: uppercase;
     margin: 10px 0 20px 0;
     #fname {
       padding-left: 0px;
-      font-size: 200%;
+      font-size: 150%;
       font-weight: bold;
       letter-spacing: 1px;
       color: black;
     }
     #lname {
-      font-size: 200%;
+      font-size: 150%;
       font-weight: bold;
       letter-spacing: 1px;
       color: black;
     }
     #mname {
-      font-size: 200%;
+      font-size: 150%;
       font-weight: bold;
       letter-spacing: 1px;
       color: black;
     }
   }
   .meta {
-  max-width: 150px;
+  max-width: 250px;
     font-size: 150%;
     a {
       margin-left: 0px;
@@ -70,7 +69,6 @@ a {
     }
   }
   .sections {
-    text-transform: uppercase;
     margin: 15px 0 0 0;
     a {
       padding: 3px 0;
@@ -95,7 +93,7 @@ a {
 
 .content {
   max-width: 800px;
-  margin-left: 200px;
+  margin-left: 250px;
   margin-right: 20px;
   margin-bottom: 50px;
   font-size: 100%;

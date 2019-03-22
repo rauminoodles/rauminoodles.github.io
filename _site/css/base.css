@@ -11,7 +11,7 @@ a {
   position: fixed;
   left: 15px;
   top: 15px;
-  width: 150px;
+  width: 250px;
   font-family: Helvetica, sans-serif; }
   .sidebar a {
     text-decoration: none; }
@@ -23,26 +23,25 @@ a {
     margin-left: 2px;
     border-radius: 5px; }
   .sidebar .name {
-    text-transform: uppercase;
     margin: 10px 0 20px 0; }
     .sidebar .name #fname {
       padding-left: 0px;
-      font-size: 200%;
+      font-size: 150%;
       font-weight: bold;
       letter-spacing: 1px;
       color: black; }
     .sidebar .name #lname {
-      font-size: 200%;
+      font-size: 150%;
       font-weight: bold;
       letter-spacing: 1px;
       color: black; }
     .sidebar .name #mname {
-      font-size: 200%;
+      font-size: 150%;
       font-weight: bold;
       letter-spacing: 1px;
       color: black; }
   .sidebar .meta {
-    max-width: 150px;
+    max-width: 250px;
     font-size: 150%;
     margin-left: 4px; }
     .sidebar .meta a {
@@ -53,7 +52,6 @@ a {
     .sidebar .meta .icon {
       margin-right: 6px; }
   .sidebar .sections {
-    text-transform: uppercase;
     margin: 15px 0 0 0; }
     .sidebar .sections a {
       padding: 3px 0;
@@ -72,7 +70,7 @@ a {
 
 .content {
   max-width: 800px;
-  margin-left: 200px;
+  margin-left: 250px;
   margin-right: 20px;
   margin-bottom: 50px;
   font-size: 100%; }
