@@ -69,7 +69,7 @@ a {
       margin-bottom: 7px; }
 
 .content {
-  max-width: 800px;
+  max-width: 80ch;
   margin-left: 250px;
   margin-right: 20px;
   margin-bottom: 50px;
