@@ -25,4 +25,7 @@
   <link href='//fonts.googleapis.com/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text/css'>
 
   <script type="text/javascript" src="{{ site.github.url }}/js/application.js"></script>
+  {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+  {% endif %}
 </head>
