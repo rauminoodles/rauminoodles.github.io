@@ -5,6 +5,8 @@
 
 body {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  //font-family: Helvetica, serif;
+  //font-family: 'Raleway', sans-serif;
   margin: 0;
   -webkit-font-smoothing: antialiased;
 }
@@ -19,6 +21,7 @@ a {
   top: 15px;
   width: 250px;
   font-family: Helvetica, sans-serif;
+  //font-family: 'Raleway', sans-serif;
   a {
     text-decoration: none;
   }
@@ -92,14 +95,15 @@ a {
 }
 
 .content {
-  max-width: 80ch;
+  max-width: 70ch;
   margin-left: 250px;
   margin-right: 20px;
   margin-bottom: 50px;
   font-size: 100%;
   h1, h2, h3, h4 {
     color: #333;
-    font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+    //font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+    //font-family: 'Raleway', sans-serif;
     font-weight: 400;
     a {
       color: #111;
@@ -179,6 +183,7 @@ a {
   .byline {
     margin-bottom: 17px;
     font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+    //font-family: 'Raleway', sans-serif;
     padding-left: 0px;
     font-size: 100%;
     color: #777;
@@ -189,12 +194,14 @@ a {
     font-size: 100%;
     margin: 5px 0 15px 0;
     font-family: Helvetica, sans-serif;
+    //font-family: 'Raleway', sans-serif;
     line-height: 1.6em;
   }
   .listing {
     margin: 10px 0 0 0;
     padding: 0;
     font-family: Helvetica, sans-serif;
+    //font-family: 'Raleway', sans-serif;
     ul {
       margin: 0;
       padding: 0;
@@ -221,6 +228,7 @@ a {
     margin: 30px 0;
     padding: 10px 0;
     font-family: Helvetica, sans-serif;
+    //font-family: 'Raleway', sans-serif;
     p {
       line-height: 1.4;
       font-size: 100%;
@@ -248,6 +256,7 @@ a {
       padding: 5px 15px;
       border: 1px solid #000;
       font-family: Helvetica, sans-serif;
+      //font-family: 'Raleway', sans-serif;
       font-size: 100%;
       font-weight: bold;
     }
