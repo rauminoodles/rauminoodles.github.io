@@ -18,5 +18,19 @@ title: "Peter Raum"
     <li>Editing upcoming paper on applying cluster perturbation theory to calculate spin susceptibilities.</li>
     <li>Preparing version 1 of my Lanczos code.</li>
   </ul>
+  
+  <h2>Recent Posts:</h2>
+
+  <ul class="entries">
+    {% for post in site.posts limit:3%}
+      {% unless post.draft %}
+      <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+      <p class="blogdate">{{ post.date | date: "%B %d, %Y" }}</p>
+      <div>{{ post.description |truncatehtml }}</div>
+      <!--<div>{{ post.content |truncatehtml | truncatewords: 2000 }}</div>-->
+      <a href="{{ post.url }}">[read more]</a>
+      {% endunless %}
+    {% endfor %}
+  </ul>
 
 </section>

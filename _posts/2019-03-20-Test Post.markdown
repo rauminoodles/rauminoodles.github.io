@@ -3,6 +3,7 @@ layout: post
 title: Test Post
 category: posts
 draft: false
+description: Hello world. This is the infamous test post...
 ---
 
 Hello world. This is the infamous test post.

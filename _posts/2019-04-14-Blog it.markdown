@@ -2,18 +2,27 @@
 layout: post
 title: Blog It
 category: posts
-draft: true
+draft: True
+description: Real artists ship...
 ---
 
-"BLOG IT" - Anonymous IRC user
+["Real artists ship" - attributed to Steve Jobs][RealArist]
 
-Welcome back long time readers. Hi mom! Who am I kidding, even my mom didn't read my old blog. I can't blame her. All I did was start a Wordpress, secure a sexy domain name, never post after that, and let it rot and wither away -- along with any chance of sharing my thoughts and insights with the world via well written prose. Oh well, their loss? Right???
+Welcome back long time readers. Hi mom! Who am I kidding, even my mom didn't read my old blog. I can't blame her. All I did was start a Wordpress, secure a sexy domain name, never post, and let it rot and wither away -- along with any chance of sharing my thoughts and insights with the world via well written prose. Oh well, their loss? Right???
 
-I used to hate writing. Wait, I still do. As a perfectionist, I'm never happy with anything that I produce. I am overly critical of every perceived mistake, set high (near-unreachable) standards, and am uncomfortable with the tension between my vision and reality. Why bother trying? 
+I used to hate writing. Wait, I still do. As a perfectionist, I'm never happy with anything that I produce. I am overly critical of every perceived mistake, set high (near-unreachable) standards, and am uncomfortable with the tension between my vision and reality. Why bother trying? Zero-work may be no-work but at least I don't have to look at this ugly mess that I've created.
 
-Even though as a child I was interested in all kinds of creative outlet such as painting, drawing, animating cartoons, and playing music, I never pursued those activities either as a professional or an amateur. 
+As a child I used to paint, draw, animate flash cartoons, and play double bass, I never pursued those activities either as a professional or an amateur. Why? Because "real artists ship" (Steve Jobs). I never wanted to ship therefore I was not a real artist.
 
-But, I love the idea of being a good writer.
+But, I love the idea of being a creator. I want products that I can be proud of. Scientific publications, talks, and code should all be created with artistic intent. Physics is not just about matching empirical evidence with theoretical predictions, but, also about telling a compelling story. Refining grounding breaking research is equally important to conducting it.
+
+Why start blogging? It's 2019, do people still read blogs? No probably not. Besides being an interactive C.V., I created this website to write more. To write [harder, better, faster, stronger][DaftPunk]. To get more accustomed to just-good-enough. 
+
+Most of what I will write about will center around physics, not surprisingly. The main topics I want to discuss are my own research, interesting things I've read, physics tutorials, and general physics life.
+
+Physics research should exist outside of scientific publications. I want to make my research accessibile to those outside of the tiny niche I publish in. The first goal of my blog is to provide less technical summaries of each paper I publish. Give more background, give a bigger picture,
+
+There is too much interesting science to learn about it. Even in my own field. I want to learn about it all, unfortunately, [life is short and I find it difficult to put aside work and learn][aintnobodygottimeforthat].
 
 This website is for
 1. #myresearch
@@ -21,7 +30,12 @@ This website is for
 3. #physics101
 4. #physicslife
 
-
 Update at least once a week.
 
+This is still a blog so I might publish whatever I want, whenever I want. They might be a gems. The might be turds. Or in the words of an old IRC user that would respond to my long rants and raves about anything "BLOG IT."
+
 &nbsp;&nbsp;&mdash; PTR
+
+[RealArist]: https://goinswriter.com/you-must-ship/
+[DaftPunk]: https://www.youtube.com/watch?v=gAjR4_CbPpQ
+[aintnobodygottimeforthat]: https://www.youtube.com/watch?v=6gLMSf4afzo
