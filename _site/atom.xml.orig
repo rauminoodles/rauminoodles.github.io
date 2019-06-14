@@ -4,10 +4,13 @@
  <title>Peter Raum</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
+<<<<<<< HEAD
  <updated>2019-06-14T14:00:34-04:00</updated>
+=======
+ <updated>2019-05-23T13:22:27-04:00</updated>
+>>>>>>> c252c3c8e5fab83a1935dffc9c399ba3aebffbb2
  <id>http://localhost:4000</id>
  <author>
-     
    <name>Peter Raum</name>
  </author>
  
