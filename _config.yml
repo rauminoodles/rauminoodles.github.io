@@ -1,6 +1,9 @@
 permalink: /posts/:title
 markdown: kramdown
 
+karmdown:
+  math_engine: katex
+
 plugins:
   - jekyll-sitemap
 
