@@ -7,6 +7,8 @@ karmdown:
 plugins:
   - jekyll-sitemap
 
+show_drafts: false
+
 name: Peter Raum
 url: https://rauminoodles.github.io
 description: Rauminoodles
