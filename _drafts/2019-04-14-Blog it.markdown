@@ -20,7 +20,7 @@ Why start blogging? It's 2019, do people still read blogs? No probably not. Besi
 
 Most of what I will write about will center around physics, not surprisingly. The main topics I want to discuss are my own research, interesting things I've read, physics tutorials, and general physics life.
 
-Physics research should exist outside of scientific publications. I want to make my research accessibile to those outside of the tiny niche I publish in. The first goal of my blog is to provide less technical summaries of each paper I publish. Give more background, give a bigger picture,
+Physics research should exist outside of scientific publications. I want to make my research accessible to those outside of the tiny niche I publish in. The first goal of my blog is to provide less technical summaries of each paper I publish. Give more background, give a bigger picture,
 
 There is too much interesting science to learn about it. Even in my own field. I want to learn about it all, unfortunately, [life is short and I find it difficult to put aside work and learn][aintnobodygottimeforthat].
 
@@ -32,7 +32,7 @@ This website is for
 
 Update at least once a week.
 
-This is still a blog so I might publish whatever I want, whenever I want. They might be a gems. The might be turds. Or in the words of an old IRC user that would respond to my long rants and raves about anything "BLOG IT."
+This is still a blog so I might publish whatever I want, whenever I want. They might be a gems. They might be turds. Or in the words of an old IRC user that would respond to my long rants and raves about anything "BLOG IT."
 
 &nbsp;&nbsp;&mdash; PTR
 
