@@ -30,10 +30,11 @@
   <script type="text/javascript" src="/js/application.js"></script>
   
 
-<!-- Katex -->
+<!-- Katex 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js" integrity="sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ" crossorigin="anonymous"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+-->
 
 </head>
 
@@ -75,7 +76,16 @@
   </section>
 </section>
 
-  <section class="content">
+  <!--Latex-->
+<!--Equation number-->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+<section class="content">
   <h1>
     <a href="/posts/Blog-it">Blog It</a>
   </h1>
@@ -98,7 +108,7 @@
 
 <p>Most of what I will write about will center around physics, not surprisingly. The main topics I want to discuss are my own research, interesting things I’ve read, physics tutorials, and general physics life.</p>
 
-<p>Physics research should exist outside of scientific publications. I want to make my research accessibile to those outside of the tiny niche I publish in. The first goal of my blog is to provide less technical summaries of each paper I publish. Give more background, give a bigger picture,</p>
+<p>Physics research should exist outside of scientific publications. I want to make my research accessible to those outside of the tiny niche I publish in. The first goal of my blog is to provide less technical summaries of each paper I publish. Give more background, give a bigger picture,</p>
 
 <p>There is too much interesting science to learn about it. Even in my own field. I want to learn about it all, unfortunately, <a href="https://www.youtube.com/watch?v=6gLMSf4afzo">life is short and I find it difficult to put aside work and learn</a>.</p>
 
@@ -112,7 +122,7 @@
 
 <p>Update at least once a week.</p>
 
-<p>This is still a blog so I might publish whatever I want, whenever I want. They might be a gems. The might be turds. Or in the words of an old IRC user that would respond to my long rants and raves about anything “BLOG IT.”</p>
+<p>This is still a blog so I might publish whatever I want, whenever I want. They might be a gems. They might be turds. Or in the words of an old IRC user that would respond to my long rants and raves about anything “BLOG IT.”</p>
 
 <p>  — PTR</p>
 
@@ -139,6 +149,7 @@
     </section>
   </section>
 </section>
+
 </body>
 
 </html>

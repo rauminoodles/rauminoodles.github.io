@@ -2,7 +2,7 @@ permalink: /posts/:title
 markdown: kramdown
 
 karmdown:
-  math_engine: katex
+  math_engine: mathjax
 
 plugins:
   - jekyll-sitemap
